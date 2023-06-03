@@ -1,0 +1,13 @@
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\bin\Debug\Emlkak Program.exe.config
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\bin\Debug\Emlkak Program.exe
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\bin\Debug\Emlkak Program.pdb
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak Program.csprojAssemblyReference.cache
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak_Program.Form1.resources
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak_Program.Properties.Resources.resources
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak Program.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak Program.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak Program.exe
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak Program.pdb
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak_Program.Form2.resources
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak_Program.Form3.resources
+C:\Users\oguzh\source\repos\Emlkak Program\Emlkak Program\obj\Debug\Emlkak_Program.Form4.resources
